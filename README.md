@@ -14,7 +14,7 @@
 
 - 🎓 I’m currently pursuing **Electronics and Computer Engineering**
 - 📈 Passionate about **Data Analysis**, **Data Science**, and **Machine Learning**
-- 🐍 Skilled in **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **SQL**
+- 🐍 Skilled in **Excel**,**Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**,**SQL**, **Tableau**
 - 💡 Solving **DSA problems in C++** to build strong problem-solving skills
 - 🔍 Exploring real-world data and building mini-projects for insights
 - 📫 Reach me at: **divyadhumal22@gmail.com**
