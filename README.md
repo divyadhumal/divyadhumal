@@ -1,7 +1,7 @@
  
 
  <h1 align="center">Hi 👋, I'm Divya Dhumal</h1>
-<h3 align="center">Aspiring Data Analyst | Learning Data Science </h3>
+<h3 align="center"> Data Analyst | Learning Data Science </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Engineering+Student;Data+Science+Explorer;Python+%7C+SQL+%7C+ML+Enthusiast;DSA+Learner+in+C++" />
