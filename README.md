@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me  
 
 - 🎓 Pursuing **Electronics and Computer Engineering**  
-- 📊 Interested in **Data Science, Data Analysis, and Machine Learning**  
+- 📊 Interested in **Data Analysis,Machine Learning and Data Science**  
 - 🐍 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel, Tableau, Statistics**  
 - 💡 Building strong **problem-solving skills in C++ (DSA)**  
 - 🚀 Actively working on **mini-projects with real datasets**  
