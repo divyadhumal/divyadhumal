@@ -14,7 +14,7 @@
 - 🎓 Pursuing **Electronics and Computer Engineering**  
 - 📊 Interested in **Data Analysis,Machine Learning and Data Science**  
 - 🐍 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Excel, Tableau, Statistics**  
-- 💡 Building strong **problem-solving skills in C++ (DSA)**  
+- 💡 Building strong **problem-solving skills in Python (DSA)**  
 - 🚀 Actively working on **mini-projects with real datasets**  
 - 📫 Reach me at **divyadhumal22@gmail.com**  
 
