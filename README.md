@@ -41,7 +41,7 @@
 
 - 📌 **Data Analysis Projects** (Uber, HR Dashboard, IPL Dashboard, Customer Churn)  
 - 📌 **SQL Practice & Optimization** for real-world datasets  
-- 📌 **LeetCode & DSA in C++** to improve problem-solving  
+- 📌 **LeetCode & DSA in Python** to improve problem-solving  
 - 📌 Preparing for **internship opportunities in Data Analyst**  
 
 ---
