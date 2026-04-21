@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyadhumal&show_icons=true&theme=radical" />
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadhumal&layout=compact&theme=radical" />
 </p>  
 
----
+------->
 
 ## 🌐 Connect With Me  
 
